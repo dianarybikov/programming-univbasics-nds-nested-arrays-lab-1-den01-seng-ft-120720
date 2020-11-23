@@ -110,4 +110,5 @@ conventional_produce = [
  
 matrix[row][column] = "new_value"
 
+matrix_update[0]
 end
