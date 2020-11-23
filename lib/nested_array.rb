@@ -111,7 +111,7 @@ conventional_produce = [
 matrix[row][column] = "new_value"
 
 
-matrix[0][2]= ""
+
 
 
 end
