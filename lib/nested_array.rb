@@ -94,6 +94,6 @@ def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
 
-assembled_matrix[0][2]= "lemons"
+assembled_matrix[0][2]= "Lemons"
 assembled_matrix
 end
