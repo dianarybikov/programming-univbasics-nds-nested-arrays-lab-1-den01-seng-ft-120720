@@ -97,6 +97,6 @@ local_copy_of_matrix = assembled_matrix
 
 local_copy_of_matrix[row][column] = "new_value"
 
-
+local_copy_of_matrix
 
 end
