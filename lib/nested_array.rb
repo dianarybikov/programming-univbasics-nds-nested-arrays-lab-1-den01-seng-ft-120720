@@ -95,7 +95,7 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
 local_copy_of_matrix = assembled_matrix
 
-matrix_update == local_copy_of_matrix[row][column] = new_value
+local_copy_of_matrix[row][column] = new_value
 
 
 
