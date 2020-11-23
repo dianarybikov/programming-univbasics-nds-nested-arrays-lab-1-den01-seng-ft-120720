@@ -108,7 +108,7 @@ conventional_produce = [
   "Eggplant"
 ]
  
-matrix_update = matrix[row][column]= "new_value"
+matrix_update == matrix[row][column] = "new_value"
 
 matrix_update
 end
